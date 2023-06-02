@@ -81,7 +81,7 @@
     - [Adopt a community governance model](#adopt-a-community-governance-model)
     - [Drive innovation in blockchain technology and applications](#drive-innovation-in-blockchain-technology-and-applications)
 - [Conclusion](#conclusion)
-- [Conclusion](#conclusion)
+- [Thanks Supports](##thanks-supports)
 
 
 # Introduction
