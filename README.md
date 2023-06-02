@@ -1,5 +1,7 @@
 ![image](https://res.cloudinary.com/malloc/image/upload/v1685717641/icegiant/242862988-f53cabbc-c877-417b-a1e3-71c99ac2357a_r3jdjh.png)
 
+# IceGiant: Database DeFi Protocol
+
 - [Introduction](#introduction)
 - [Motivation](#motivation)
 - [Technology overview](#technology-overview)
