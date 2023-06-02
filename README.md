@@ -1,10 +1,3 @@
-
----
-title: "IceGiant: Database DeFi Protocol"
-date:  2023-05-02T12:55:18+08:00
-draft: false
----
-
 ![image](https://res.cloudinary.com/malloc/image/upload/v1685717641/icegiant/242862988-f53cabbc-c877-417b-a1e3-71c99ac2357a_r3jdjh.png)
 
 - [Introduction](#introduction)
